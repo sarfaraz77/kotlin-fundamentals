@@ -8,6 +8,8 @@ It includes:
 
 - Lambdas & function types
 
+- OOPs, enum, Data classes, Interface
+
 - Practice Code
 
 Each folder represents a topic, with simple .kt files that show how the concept works in practice.
